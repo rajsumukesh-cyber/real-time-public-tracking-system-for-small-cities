@@ -1,6 +1,8 @@
 # AKULA SUMUKESH RAJ GUPTA
 
----
+<p align="center">
+
+<img src="C:\Users\sahit\Downloads\ChatGPT Image Jul 5, 2026, 01_39_50 AM.png">
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
