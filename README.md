@@ -32,6 +32,30 @@
 
 </p>
 
+# 🚍 Real-Time Public Transport Tracking System for Small Cities
+
+<p align="center">
+  <img src="assets/project-banner.png" width="100%" alt="Project Banner">
+</p>
+
+## ✨ Features
+
+- 📍 Real-time GPS Bus Tracking
+- 🗺️ Interactive Google Maps
+- 👨‍✈️ Driver Dashboard
+- 👥 Passenger Dashboard
+- 🔐 JWT Authentication
+- ⚡ Socket.io Real-time Updates
+- 📊 Admin Dashboard
+- 📱 Responsive Design
+- ⏱️ ETA Prediction
+- 🔔 Live Notifications
+
+---
+
+## 📂 Project Structure
+
+
 # TransitLive — Real-Time Public Transport Tracking System
 
 A full-stack MERN application for tracking public transport in real time. Drivers share
