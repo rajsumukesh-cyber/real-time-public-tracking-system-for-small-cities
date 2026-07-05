@@ -1,3 +1,5 @@
+# AKULA SUMUKESH RAJ GUPTA
+
 # TransitLive — Real-Time Public Transport Tracking System
 
 A full-stack MERN application for tracking public transport in real time. Drivers share
@@ -140,3 +142,7 @@ with charts, push notifications, and a dedicated emergency-alerts inbox) are wir
 the data/socket level (the `sos` event, `Trip` history, admin-only routes) but don't yet
 have a dedicated admin dashboard UI — that's the natural next module to build on top of
 this foundation.
+
+## 8. DEVELOPED URL
+
+https://bus-beacon-pro.lovable.app
