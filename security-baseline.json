@@ -1,0 +1,4 @@
+{
+  "_comment": "Add finding ids here after a human review confirms they are acceptable. New (non-listed) findings fail CI.",
+  "acknowledged": []
+}
